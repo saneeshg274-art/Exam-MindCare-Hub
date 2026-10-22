@@ -1,0 +1,6 @@
+{
+  "name": "Exam&MindCare Hub",
+  "description": "Exam preparation & mind wellness platform for Kerala PSC, UPSC & competitive exams with actual PYQ database, Malayalam support, OMR test simulator, daily study streak tracker, and mindful relaxation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
